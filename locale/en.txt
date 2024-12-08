@@ -3,11 +3,18 @@
 ## Action
 
 ### URL
-LinkBehaviour_9A777F3D_1E9F_7E49_4194_50423812FA8C.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_6157C4A3_1E9F_8279_4190_37BE5BC9E94B.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://andikaarywiguna.github.io/tanahlapang/
+LinkBehaviour_90DC6964_8A0F_9D34_41D7_A5759A2D7A81.source = https://andikaarywiguna.github.io/tanahlapang/
+LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_90DBB965_8A0F_9D34_41A3_5E8C68AC9036.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
+LinkBehaviour_90D5C9A7_8A0F_9D34_41E0_B0C6AC5E90F7.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_90D349A6_8A0F_9D34_41BE_C04D3FA76D85.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_240ED8FE_0D18_23DB_4185_EB137588CDCC.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_90C869A8_8A0F_9D3C_41CE_9FA8A209D00E.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+PopupWebFrameBehaviour_15552651_3986_CC8A_41C5_A0E4784FC384.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
+PopupWebFrameBehaviour_90E6D944_8A0F_9D6B_41DA_E8EABA30984B.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 PopupWebFrameBehaviour_25F73DA3_0D18_E26A_419D_C123D8D1BFEE.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 
 ## Hotspot
@@ -32,6 +39,8 @@ imlevel_34F57218_2834_45A0_41A1_684DC4B371F0.url = media/panorama_07333994_13FB_
 imlevel_33894056_2834_45A0_4199_EDA86FF24166.url = media/panorama_1FF448CF_05C3_EF54_4190_54BACFFA2B8D_HS_pge5e8vt_en.png
 
 ### Title
+album_13504C7B_3985_3D7F_41CB_6718FA386D6B_0.label = (Pakai Ini) PETA JALUR EVAKUASI TSUNAMI DESA PERANCAK
+album_13504C7B_3985_3D7F_41CB_6718FA386D6B_2.label = (pakai ini) PETA BAHAYA TSUNAMI DESA PERANCAK
 panorama_9FA278A9_1DB7_8249_41AF_0E06281DB1EA.label = 1
 panorama_9F36BB16_1DB6_865B_4173_380413304004.label = 10
 panorama_9FA0C699_1DB1_8E49_41BE_6F10657C7E70.label = 12
@@ -41,8 +50,8 @@ panorama_627DC2A4_1EAF_8679_41B8_0BE3F9CF75CC.label = 2
 photo_20044E34_15A6_A49D_41B3_073CEF89BCDD.label = 2023-11-06
 photo_266A5491_04C3_FF0B_4171_DBFC1F4D1749.label = 2024-04-23-banjar
 panorama_9FA132BE_1DB7_864B_41AC_0189F4EE6C3D.label = 3
-panorama_62F02077_1E93_82D9_41B3_AE42487956E1.label = 4
 panorama_9FA04CA4_1DB6_827F_418F_73A4156CFA5E.label = 4
+panorama_62F02077_1E93_82D9_41B3_AE42487956E1.label = 4
 panorama_9F3A60CD_1DB2_83C9_41A7_5CBC6921A177.label = 5
 panorama_62F737D8_1E91_8DD7_41BF_5020B3AB7850.label = 5
 panorama_9FDE1F28_1DB2_BE77_41B0_B9AA50E6A256.label = 6
@@ -114,12 +123,32 @@ panorama_1FFC35D3_05C5_614C_4188_7F3A2DB249BB.label = MotorCross96
 panorama_1FFF7F19_05C7_E2FD_4181_B0BC954993AC.label = MotorCross97
 panorama_1FFF6966_05C7_A154_418C_3E494C31C544.label = MotorCross98
 panorama_1FFC50B7_05C5_7F34_4179_34E096B2B2D8.label = MotorCross99
+album_13504C7B_3985_3D7F_41CB_6718FA386D6B_4.label = PETA KAPASITAS DESA PERANCAK
+album_13504C7B_3985_3D7F_41CB_6718FA386D6B_3.label = PETA KERENTANAN DESA PERANCAK
+album_13504C7B_3985_3D7F_41CB_6718FA386D6B_1.label = PETA RISIKO DESA PERANCAK
+video_7F349A50_5605_EDEA_41B4_C00FDDC80816.label = Panduan Evakuasi
+video_7F18F358_5605_6399_41D2_4E8C4114F7FD.label = Pengenalan Rambu
+album_13504C7B_3985_3D7F_41CB_6718FA386D6B.label = Photo Album (Pakai Ini) PETA JALUR EVAKUASI TSUNAMI DESA PERANCAK
+album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD.label = Photo Album tsunami-saat-ada-peringatan
 photo_27B23C12_15BB_A495_4197_8A33AE365265.label = Screenshot_11
 photo_2634FEC3_15EA_A5FB_41B1_2EB72FDD5402.label = Screenshot_12
 photo_2C664BB0_15EF_A395_419C_27D5DA99D9CF.label = Screenshot_13
 photo_63AA39F6_1EB3_85DB_4181_D51135D37D4E.label = Screenshot_14
 panorama_06F11292_13FA_FD95_4196_DCF508E8D89C.label = SirkuitMotorDroneAwal
 panorama_07333994_13FB_6F9D_4195_C75F3E894A9C.label = SirkuitMotorDroneKumpul
+video_7FA9E1AE_615B_F83B_41B7_FD582F371D20.label = drop cover Hold
+album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_0.label = tsunami-saat-ada-peringatan
+album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_1.label = tsunami-setelah-terjadi
+
+### Video
+videolevel_88C4A0AC_A602_6D6A_4174_2008CA3BF94B.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
+videolevel_88C4A0AC_A602_6D6A_4174_2008CA3BF94B.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
+videolevel_88C2313E_A602_6F66_41E4_B5DC97AAA38F.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
+videolevel_88C2313E_A602_6F66_41E4_B5DC97AAA38F.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
+videolevel_88C011A6_A602_6F66_41B4_729368A412DE.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
+videolevel_88C011A6_A602_6F66_41B4_729368A412DE.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
+
+### Video Subtitles
 
 ## Popup
 
@@ -134,75 +163,52 @@ htmlText_24211817_04C3_D737_4192_5A77F1797A9C.html = <div style="text-align:left
 ## Skin
 
 ### Button
-Button_25476365_0D18_66EE_41A7_F970DCA27EE0.label = Bar
-Button_25477365_0D18_66EE_41A4_74CA7A759567.label = Chill Out
-Button_2546A365_0D18_66EE_41A3_081297220AE2.label = DRONE
-Button_2546D365_0D18_66EE_41A7_43FF7452812D.label = Drone Titik Akhir
-Button_2546C365_0D18_66EE_41AA_447A603C12C4.label = Drone Titik Awal
-Button_25478366_0D18_66EA_419E_6213BBF5E3BE.label = JALUR
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.pressedLabel = Jalan Sawang
-Button_25448368_0D18_66E6_4194_9EBE6B8B49E3.label = Jalan Sawang
-Button_2546B366_0D18_66EA_419B_FF0D15C14D1A.label = Jalur Motor Cross
-Button_2544A368_0D18_66E6_41AA_AF2E4FDB3D7C.label = Jalur Utama
-Button_2544336A_0D18_66FA_4189_8D3FE72496FC.label = Lorem Ipsum
-Button_2547F36A_0D18_66FA_419A_D23EC0E7A5A5.label = Lorem Ipsum
-Button_2544F368_0D18_66E6_418C_901073C464FD.label = Lorem Ipsum
-Button_25468366_0D18_66EA_4198_F14D67A72DE4.pressedLabel = Lorem Ipsum
-Button_25468366_0D18_66EA_4198_F14D67A72DE4.label = Lorem Ipsum
-Button_25469366_0D18_66EA_4141_0712F5C42E54.label = Lorem Ipsum
-Button_2546E366_0D18_66EA_419E_4CD9795F1872.label = Lorem Ipsum
-Button_2547B368_0D18_66E6_41A5_4EEDD16B7121.label = Lorem Ipsum
-Button_2546C366_0D18_66EA_419A_20F14F821A24.label = Lorem Ipsum
-Button_2546D366_0D18_66EA_4179_6137A4E4B57F.label = Lorem Ipsum
-Button_2547936A_0D18_66FA_41A2_FE08F45646CE.label = Lorem Ipsum
-Button_2547B36A_0D18_66FA_41A6_584DB3A04A7C.pressedLabel = Lorem Ipsum
-Button_25443369_0D18_66E6_419F_61DFE77B09B9.label = Lorem Ipsum
-Button_2547536A_0D18_66FA_41A2_DE03CEF3EC24.label = Lorem Ipsum
-Button_2547A36A_0D18_66FA_41A2_1ECD18ACABD1.label = Lorem Ipsum
-Button_25445369_0D18_66E6_4154_2AA2D5B9F0F6.label = Lorem Ipsum
-Button_25444369_0D18_66E6_41A7_8FBB65416047.label = Lorem Ipsum
-Button_2544236A_0D18_66FA_4195_11E2D7A6039C.label = Lorem Ipsum
-Button_25441369_0D18_66E6_41A3_BD3DF454B380.label = Lorem Ipsum
-Button_25443369_0D18_66E6_419F_61DFE77B09B9.pressedLabel = Lorem Ipsum
-Button_2547A368_0D18_66E6_416F_B022705C6212.label = Lorem Ipsum
-Button_25440369_0D18_66E6_417D_30EF0777F70A.label = Lorem Ipsum
-Button_2547B36A_0D18_66FA_41A6_584DB3A04A7C.label = Lorem Ipsum
-Button_2547D369_0D18_66E6_41A4_1FDF7900A814.label = Lorem Ipsum
-Button_25442369_0D18_66E6_4176_4BB5E316D1FA.label = Lorem Ipsum
-Button_2546F366_0D18_66EA_41A5_EFFB7B66FB15.label = Lorem ipsum
-Button_25474368_0D18_66E6_419B_AFBA62014CE8.label = Lorem ipsum
-Button_2547D36A_0D18_66FA_41A8_CDD0322DA7C7.label = Lorem ipsum
-Button_25447369_0D18_66E6_4175_C3B65AF4392E.label = Lorem ipsum
-Button_25473365_0D18_66EE_4193_EFA4E01FA5DA.label = Meeting Area 1
-Button_25471365_0D18_66EE_4175_7FB70787CA7A.label = Meeting Area 2
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.pressedLabel = Pantai Perancak
-Button_2544B368_0D18_66E6_4198_6A9FEAC856C6.label = Pantai Perancak
-Button_25473369_0D18_66E6_41A0_5FD0B1EF650F.label = RESTAURANTS >
-Button_25472365_0D18_66EE_4183_C4791420B5C4.label = Reception
-Button_25472365_0D18_66EE_4183_C4791420B5C4.pressedLabel = Reception
-Button_25478368_0D18_66E6_41A9_57B92439234E.label = SWIMMING POOL >
-Button_25471367_0D18_66EA_41A4_73F62D85801D.label = TITIK AKHIR
-Button_25441367_0D18_66EA_41A6_0E63A7D05EC7.label = TITIK AWAL
-Button_25465366_0D18_66EA_41A9_BBC28DF890BA.label = Tanah Lapang
-Button_25474365_0D18_66EE_41A7_69A2A4467514.label = Terrace
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4.label = Villa Lima-Lima
-Button_25449368_0D18_66E6_419D_E9C8B85E14B4.pressedLabel = Villa Lima-Lima
+Button_6989E7FC_4DEC_6D3A_41CF_0DEAA8CA0A61_mobile.label = DRONE
+Button_6989E7FC_4DEC_6D3A_41CF_0DEAA8CA0A61.label = DRONE
+Button_6980881D_4DEC_62FA_41A9_9A326454240A.label = Drone Titik Akhir
+Button_6980881D_4DEC_62FA_41A9_9A326454240A_mobile.label = Drone Titik Akhir
+Button_6981481B_4DEC_62FE_41D1_C989D1498D21_mobile.label = Drone Titik Awal
+Button_6981481B_4DEC_62FE_41D1_C989D1498D21.label = Drone Titik Awal
+Button_69F33425_4DEC_22CA_41B5_89164DC7DA20.label = INFO
+Button_69F33425_4DEC_22CA_41B5_89164DC7DA20_mobile.label = INFO
+Button_6941C16F_4DEC_6556_41CD_12688538D283.label = JALUR
+Button_6941C16F_4DEC_6556_41CD_12688538D283_mobile.label = JALUR
+Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40.pressedLabel = Jalan Sawang
+Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40_mobile.pressedLabel = Jalan Sawang
+Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40_mobile.label = Jalan Sawang
+Button_692F7E45_4DEC_3F4A_41BF_17A74A2C0F40.label = Jalan Sawang
+Button_6949514A_4DEC_655E_41D0_CE4C05B78F63.label = Jalur Motor Cross
+Button_6949514A_4DEC_655E_41D0_CE4C05B78F63_mobile.label = Jalur Motor Cross
+Button_7116EDC5_5607_A6EA_41C2_C5ACB5EEBB4B.label = Langkah Evakuasi
+Button_7116EDC5_5607_A6EA_41C2_C5ACB5EEBB4B_mobile.label = Langkah Evakuasi
+Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3.pressedLabel = Pantai Perancak
+Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3.label = Pantai Perancak
+Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3_mobile.label = Pantai Perancak
+Button_69301E42_4DEC_3F4E_41B3_209EC3325EF3_mobile.pressedLabel = Pantai Perancak
+Button_7F2C0722_6158_D82B_41D5_C0D4DAAE2201_mobile.label = Penanggulangan
+Button_7F2C0722_6158_D82B_41D5_C0D4DAAE2201.label = Penanggulangan
+Button_71EB506D_5607_BDBA_41C7_92546D5F7A44_mobile.label = Pengenalan Rambu
+Button_71EB506D_5607_BDBA_41C7_92546D5F7A44.label = Pengenalan Rambu
+Button_7132B346_5605_A3F6_41CA_00BD49D15DDF_mobile.label = Peta
+Button_7132B346_5605_A3F6_41CA_00BD49D15DDF.label = Peta
+Button_6AF1D954_4DD4_254A_41CF_ED6B33765C05.label = TITIK AKHIR
+Button_6AF1D954_4DD4_254A_41CF_ED6B33765C05_mobile.label = TITIK AKHIR
+Button_69297E5F_4DEC_3F76_41B8_FA0EA83B9834.label = TITIK AWAL
+Button_69297E5F_4DEC_3F76_41B8_FA0EA83B9834_mobile.label = TITIK AWAL
+Button_69490147_4DEC_6556_41B6_4189E4B3D265.label = Tanah Lapang
+Button_69490147_4DEC_6556_41B6_4189E4B3D265_mobile.label = Tanah Lapang
+Button_710D2347_5605_A3F6_41C0_F2E43EEB4D45.label = Tindakan
+Button_710D2347_5605_A3F6_41C0_F2E43EEB4D45_mobile.label = Tindakan
+Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21_mobile.pressedLabel = Villa Lima-Lima
+Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21_mobile.label = Villa Lima-Lima
+Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21.pressedLabel = Villa Lima-Lima
+Button_692ECE46_4DEC_3F56_41CB_2F191D2DCB21.label = Villa Lima-Lima
 
 ### Image
-Image_260A67E1_0D08_2DE6_41A0_A05E1F6C7C6E.url = skin/Image_260A67E1_0D08_2DE6_41A0_A05E1F6C7C6E_en.png
-Image_922618D3_1F93_83D9_41B4_42F73EC8EF04.url = skin/Image_922618D3_1F93_83D9_41B4_42F73EC8EF04_en.png
-Image_B601362D_1FB1_8E49_4173_1764FEE3AE6C.url = skin/Image_B601362D_1FB1_8E49_4173_1764FEE3AE6C_en.png
-
-### Label
-Label_64684A29_1E72_8649_41A3_EB3D13700E7B.text = DESA PRANCAK, JEMBRANA
-Label_9AE96E8B_1D92_9E49_41B6_745BC0F98044.text = JALUR MOTOR CROSS
-Label_9E1D6685_1E71_8E39_41B6_6C6256E4A0D6.text = MOTOR CROSS
-Label_2492C6EB_0D08_2FF9_41AA_678A5F2D6FAE.text = TEA TANAH LAPANG SIRKUIT MOTOR CROSS
-Label_2EC1F87F_14D9_EC8B_4196_BB475C564AF8.text = TITIK AKHIR EVAKUASI TANAH LAPANG SIRKUIT
-Label_24AAD7A3_0D08_2E69_4192_CD4DCD18879B.text = TITIK AWAL EVAKUASI PANTAI PRANCAK (+/-) 2800 m 
-
-### Multiline Text
-HTMLText_2544636A_0D18_66FA_4185_8F3255F0D4F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+Image_14F02511_398B_CC8A_41C7_A72843532B48.url = skin/Image_14F02511_398B_CC8A_41C7_A72843532B48_en.png
+Image_14F02511_398B_CC8A_41C7_A72843532B48_mobile.url = skin/Image_14F02511_398B_CC8A_41C7_A72843532B48_mobile_en.png
+Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38.url = skin/Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_en.png
+Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_mobile.url = skin/Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_mobile_en.png
 
 ## Tour
 
