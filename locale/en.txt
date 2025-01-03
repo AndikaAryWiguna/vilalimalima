@@ -3,16 +3,19 @@
 ## Action
 
 ### URL
+LinkBehaviour_08B4DDCF_27DD_D538_41A8_3E0B6051ADE2.source = https://360.bnpb.go.id/static-jembrana-sawang
+LinkBehaviour_166E092B_27DC_FD7E_41C1_0FC03A6930E4.source = https://360.bnpb.go.id/static-jembrana-tanahlapangmotorcross
+LinkBehaviour_17DB8E85_27DD_5728_4175_2172FED5FBE6.source = https://360.bnpb.go.id/static-jembrana-vilalimalima
 LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://andikaarywiguna.github.io/tanahlapang/
 LinkBehaviour_90DC6964_8A0F_9D34_41D7_A5759A2D7A81.source = https://andikaarywiguna.github.io/tanahlapang/
-LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_90DBB965_8A0F_9D34_41A3_5E8C68AC9036.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
-LinkBehaviour_90D5C9A7_8A0F_9D34_41E0_B0C6AC5E90F7.source = https://web.facebook.com/bpbdjembranabali
+LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
-LinkBehaviour_90D349A6_8A0F_9D34_41BE_C04D3FA76D85.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+LinkBehaviour_90D5C9A7_8A0F_9D34_41E0_B0C6AC5E90F7.source = https://web.facebook.com/bpbdjembranabali
 LinkBehaviour_240ED8FE_0D18_23DB_4185_EB137588CDCC.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
-LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_90D349A6_8A0F_9D34_41BE_C04D3FA76D85.source = https://www.instagram.com/bpbdjembranabali?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
 LinkBehaviour_90C869A8_8A0F_9D3C_41CE_9FA8A209D00E.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
+LinkBehaviour_24718B67_0D18_66EA_4198_220030753E12.source = https://www.tiktok.com/@bpbdkabupatenjembrana?is_from_webapp=1&sender_device=pc
 PopupWebFrameBehaviour_15552651_3986_CC8A_41C5_A0E4784FC384.url = //www.youtube.com/embed/QSAQSusgOto?list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6
 PopupWebFrameBehaviour_90E6D944_8A0F_9D6B_41DA_E8EABA30984B.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
 PopupWebFrameBehaviour_25F73DA3_0D18_E26A_419D_C123D8D1BFEE.url = //www.youtube.com/embed/QSAQSusgOto?v=QSAQSusgOto&list=PLIXbOTD6MBx6NQ3MG447Mags5V9-GGDB6&index=3
@@ -141,12 +144,12 @@ album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_0.label = tsunami-saat-ada-peringatan
 album_71EC11B7_5604_BE96_41B8_D4DFA7035DAD_1.label = tsunami-setelah-terjadi
 
 ### Video
-videolevel_88C4A0AC_A602_6D6A_4174_2008CA3BF94B.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
-videolevel_88C4A0AC_A602_6D6A_4174_2008CA3BF94B.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
-videolevel_88C2313E_A602_6F66_41E4_B5DC97AAA38F.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
-videolevel_88C2313E_A602_6F66_41E4_B5DC97AAA38F.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
-videolevel_88C011A6_A602_6F66_41B4_729368A412DE.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
-videolevel_88C011A6_A602_6F66_41B4_729368A412DE.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
+videolevel_1F05031A_2645_ED58_41A5_EA806E9E819A.url = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_en.mp4
+videolevel_1F05031A_2645_ED58_41A5_EA806E9E819A.posterURL = media/video_7F18F358_5605_6399_41D2_4E8C4114F7FD_poster_en.jpg
+videolevel_1F03A3AA_2645_ED79_41B1_AD01AE6CACBE.url = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_en.mp4
+videolevel_1F03A3AA_2645_ED79_41B1_AD01AE6CACBE.posterURL = media/video_7F349A50_5605_EDEA_41B4_C00FDDC80816_poster_en.jpg
+videolevel_1F00F42D_2645_EB7B_4194_7C095BEFC995.url = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_en.mp4
+videolevel_1F00F42D_2645_EB7B_4194_7C095BEFC995.posterURL = media/video_7FA9E1AE_615B_F83B_41B7_FD582F371D20_poster_en.jpg
 
 ### Video Subtitles
 
@@ -215,4 +218,4 @@ Image_6EA74DF4_4838_E414_41B7_693AA8DFCB38_mobile.url = skin/Image_6EA74DF4_4838
 ### Description
 
 ### Title
-tour.name = Titik Awal 6 Villa Lima-Lima (6)
+tour.name = Titik Awal 6 Villa Lima-Lima
