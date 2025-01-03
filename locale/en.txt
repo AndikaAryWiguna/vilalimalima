@@ -6,8 +6,8 @@
 LinkBehaviour_08B4DDCF_27DD_D538_41A8_3E0B6051ADE2.source = https://360.bnpb.go.id/static-jembrana-sawang
 LinkBehaviour_166E092B_27DC_FD7E_41C1_0FC03A6930E4.source = https://360.bnpb.go.id/static-jembrana-tanahlapangmotorcross
 LinkBehaviour_17DB8E85_27DD_5728_4175_2172FED5FBE6.source = https://360.bnpb.go.id/static-jembrana-vilalimalima
-LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://github.com/AndikaAryWiguna/tanahlapang.git
-LinkBehaviour_90DC6964_8A0F_9D34_41D7_A5759A2D7A81.source = https://github.com/AndikaAryWiguna/tanahlapang.git
+LinkBehaviour_69496149_4DEC_655A_41CE_E1AB03593AAD.source = https://360.bnpb.go.id/static-jembrana-tanahlapang
+LinkBehaviour_90DC6964_8A0F_9D34_41D7_A5759A2D7A81.source = https://360.bnpb.go.id/static-jembrana-tanahlapang
 LinkBehaviour_90DBB965_8A0F_9D34_41A3_5E8C68AC9036.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_694BB14B_4DEC_655E_41C5_435F94FF706F.source = https://andikaarywiguna.github.io/tanahlapangmotorcross/
 LinkBehaviour_27F3FF13_0D19_DE2A_417B_9479C7AFE4D1.source = https://web.facebook.com/bpbdjembranabali
